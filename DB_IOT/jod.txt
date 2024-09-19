@@ -1,0 +1,15 @@
+Client id : 4529897
+Password : owenzaza555
+Webpage : http://panuwatdht.atwebpages.com/
+POST_URL : http://panuwatdht.atwebpages.com/sensordata.php
+Tablename = tbl_temperature 
+
+
+===DB===
+DB_name : 4529897_panuwatdht
+HOST : fdb29.awardspace.net
+USER : 4529897_panuwatdht
+password : r3UDNT1L4R/(FcLD
+
+Project_API_KEY : panuwatsqldht
+
